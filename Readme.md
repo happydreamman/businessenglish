@@ -175,3 +175,19 @@ You could say that, but who buys ice cream in winter?
 **We'll wrap up**
 * We'll wrap up the whole process by resetting the system.
 
+# 56. INTRODUCE GOOD NEWS
+**I am delighted**
+* I am delighted to inform you that you've won the first prize.
+
+**We are pleased**
+* We are pleased to announce that Clara will be our new ad agency.
+
+**You'll be thrilled**
+* You'll be thrilled to hear that your love is returnning next week.
+
+**It's a pleasure**
+* It's a pleasure to let you know that our company has grown substantially.
+
+**I have a good news**
+* I have a good news. Hopper has accepted our proposal.
+
