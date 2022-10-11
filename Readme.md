@@ -63,3 +63,18 @@ You could say that, but who buys ice cream in winter?
 **That's not such a good idea**
 * That's not such a good ides. Fiona tried it and it never worked.
 
+# 49. DISAGREE LESS STRONGLY
+**I've got another**
+* I've got another point of view.
+
+**I wouldn't do that**
+* I wouldn't do that. I would never sell a car to buy a motorcycle.
+
+**I am afraid I can't see it**
+* I am afraid I can't see it that way.
+
+**Don't get me wrong**
+* Don't get me wrong, but no one here shares your views.
+
+**I'm not so keen**
+* I'm not so keen on your strategy. It seems too complicated.
