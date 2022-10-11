@@ -78,3 +78,19 @@ You could say that, but who buys ice cream in winter?
 
 **I'm not so keen**
 * I'm not so keen on your strategy. It seems too complicated.
+
+# 50. DISAGREE POLITELY
+**I don't mean to be rude**
+* I don't mean to be rude Bahia is north of Rio, not south.
+
+**This may sound**
+* This may sound offensive but it is not my intention to hurt anyone.
+
+**Correct me if I am wrong**
+* Correct me if I am wrong but I think cell phone sales have remained flat.
+
+**I hate to bring this up**
+* I hate to bring this up, but Brigitte never studied Marketting.
+
+**There's another way**
+* There's another way round this. Why not try the Beta system?
