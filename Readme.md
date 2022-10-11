@@ -223,3 +223,19 @@ You could say that, but who buys ice cream in winter?
 **It's a shame**
 * It's a shame but nobody will be there to receive you.
 
+# 59. EXPRESS CONDOLENCE
+**I was sorry to hear**
+* I was sorry to hear about Mr Jam. He will be missed by all of us.
+
+**I'd like to extend my sympathy**
+* I'd like to extend my sympathy to you and to your family.
+
+**We were sad to learn**
+* We were sad to learn that Mr James passed away,
+
+**I'd like to express my bereavment**
+* I'd like to express my bereavment for the loss of such a valued person.
+
+**My condolence**
+* My condolence over the death of such an esteemed member of your team.
+
