@@ -143,3 +143,19 @@ You could say that, but who buys ice cream in winter?
 **To begin with**
 * To begin with, write a business plan.
 
+# 54. GIVE INSTRUCTIONS - CONTINUE
+**After that**
+* After that you should ask for an appointment with Dr LiYong
+
+**The following stage**
+* The following stage is to make sure you have enough cash.
+
+**The next thing**
+* The next thing will be to ask me to help you.
+
+**Once you've**
+* Once you've gone through the first step, you must tackle the second one.
+
+**When that is over**
+* When the introduction is over, you'll be ready to continue with the rest.
+
