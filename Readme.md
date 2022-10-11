@@ -207,3 +207,19 @@ You could say that, but who buys ice cream in winter?
 **After careful consideration**
 * After careful consideration we have decided not to move forward with your candidacy.
 
+# 58. INTRODUCE BAD NEWS INFORMALLY
+**I have some bad news**
+* I have some bad news for you. I am leaving.
+
+**I hate to tell you**
+* I hate to tell you this, but they are scammers.
+
+**I don't know how to say**
+* I don't know how to say but she insisted I am wrong.
+
+**I feel sorry**
+* I feel sorry but I hardly make you happy.
+
+**It's a shame**
+* It's a shame but nobody will be there to receive you.
+
