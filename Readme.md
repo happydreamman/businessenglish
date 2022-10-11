@@ -191,3 +191,19 @@ You could say that, but who buys ice cream in winter?
 **I have a good news**
 * I have a good news. Hopper has accepted our proposal.
 
+# 57. INTRODUCE BAD NEWS FORMALLY
+**We regret to**
+* We regret to inform you that your programme has been discontinued.
+
+**I'm sorry**
+* I'm sorry but I have to let you know that we will not participate.
+
+**I am afraid it**
+* I'm afraid it won't be possible for us to finance your venture.
+
+**Unfortunately**
+* Unfortunately we are not allowed to take on such high risk.
+
+**After careful consideration**
+* After careful consideration we have decided not to move forward with your candidacy.
+
