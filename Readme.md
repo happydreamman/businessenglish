@@ -45,4 +45,21 @@ You could say that, but who buys ice cream in winter?
 
 **Up to a point I agree. Nevertheless**
 * Up to a point I agree. Nevertheless, I feel James has a sounder approach.
-  
+
+# 48. DISAGREE STRONGLY
+
+**I don't agree**
+* I don't agree with you at all.
+
+**You're not right**
+* You're not right. Everything you said is wrong.
+
+**It's not what I believe**
+* It's not what I believe and I will not back you.
+
+**I don't think so**
+* I don't think so. Why don't you change strategy?
+
+**That's not such a good idea**
+* That's not such a good ides. Fiona tried it and it never worked.
+
