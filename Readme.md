@@ -159,3 +159,19 @@ You could say that, but who buys ice cream in winter?
 **When that is over**
 * When the introduction is over, you'll be ready to continue with the rest.
 
+# 55. GIVE INSTRUCTIONS - FINISH
+**The last stage**
+* The last stage is the easiest.
+
+**At the end**
+* At the end, you should check that the cables are well connected.
+
+**To finish**
+* To finish you just need to turn the switch on.
+
+**The closing step**
+* The closing step is the easiest. Just lock the latch.
+
+**We'll wrap up**
+* We'll wrap up the whole process by resetting the system.
+
