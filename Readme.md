@@ -239,3 +239,19 @@ You could say that, but who buys ice cream in winter?
 **My condolence**
 * My condolence over the death of such an esteemed member of your team.
 
+# 60. COMPLAIN STRONGLY
+**I'd like to file a complaint**
+* I'd like to file a complaint with your manager.
+
+**I'm not satisfied**
+* I'm not at all satisfied with your attitude.
+
+**We deserve better**
+* We deserve a better service.
+
+**I'm not used to**
+* I'm not used to such impolite behavior.
+
+**I am sorry to have to say**
+* I am sorry to have to say this but food today wasn't good at all.
+
