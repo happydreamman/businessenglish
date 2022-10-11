@@ -94,3 +94,20 @@ You could say that, but who buys ice cream in winter?
 
 **There's another way**
 * There's another way round this. Why not try the Beta system?
+
+# 51. SOFTEN DISAGREEMENT
+**I'am afraid**
+* I am afraid your model is a bit dated.
+
+**I'm sorry**
+* I'm sorry, but I can't agree with you.
+
+**Even though I respect your**
+* Even though I respect your opinion I must dissent.
+
+**I know you've tried your best**
+* I know you've tried your best, but your assumption is wrong.
+
+**It's a great idea**
+* It's a great idea, but we there's another way to do it.
+
