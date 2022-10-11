@@ -14,3 +14,19 @@
 **Shall we pass?**
 * Shall we pass the motion? Good.
 
+# 46. AGREE WITH OPINIONS
+**Exactly**
+* Exactly! You couldn't have used better words.
+
+**That's how I feel**
+* That's exactly how I feel as well
+
+**I have to agree**
+* I have to agree with you. There seems to be no other possibility.
+
+**I never thought about it that way before**
+* I never thought about it that way before. It's an excellent idea.
+
+**You've found**
+* I think you've found the right solution.
+
