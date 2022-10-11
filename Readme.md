@@ -111,3 +111,19 @@ You could say that, but who buys ice cream in winter?
 **It's a great idea**
 * It's a great idea, but we there's another way to do it.
 
+# 52. EXPRESS RESERVATION
+**I have some reservations**
+* I have some reservations. How much is all this going to cost?
+
+**Maybe we should reflect**
+* Maybe we should reflect on this a bit more.
+
+**I'm worried**
+* I'm rather worried about the rate of return.
+
+**I can't help**
+* I can't help feeling that we've forgotten something.
+
+**I'd like to express my doubts**
+* I'd like to express my doubts. You don't even have a business plan.
+
