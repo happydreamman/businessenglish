@@ -30,3 +30,19 @@
 **You've found**
 * I think you've found the right solution.
 
+# 47. DISAGREE PARTIALLY
+**I see your point of view, but**
+* I see your point of view, but winter is very cold in Montreal.
+
+**You might be right, however**
+* You might be right, however, how can we tell for sure?
+
+**You have a good point, though**
+* You have a good point, though Anthony is also right.
+
+**You could say that, but**
+You could say that, but who buys ice cream in winter?
+
+**Up to a point I agree. Nevertheless**
+* Up to a point I agree. Nevertheless, I feel James has a sounder approach.
+  
