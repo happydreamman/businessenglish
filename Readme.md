@@ -127,3 +127,19 @@ You could say that, but who buys ice cream in winter?
 **I'd like to express my doubts**
 * I'd like to express my doubts. You don't even have a business plan.
 
+# 53. GIVE INSTRUCTIONS - START
+**Before beginning**
+* Before beginning make sure the mains are turned off.
+
+**The first step**
+* The first step is to find out where the short-circuit happened.
+
+**I would start by**
+* I would start by analyzing the charts.
+
+**We'll set off**
+* We'll set off by working at the far end of the garden.
+
+**To begin with**
+* To begin with, write a business plan.
+
