@@ -319,5 +319,99 @@ You could say that, but who buys ice cream in winter?
 **On the face of it**
 * On the face of it, everything seems to be running smoothly.
 
+# 65. EXPRESS SOMETHING POSSIBLE
+**Possible**
+* It is, of course, possible to give you a discount if you increase volume.
 
+**Conceivably**
+* Can we conceivably believe that you will not make another mistake, Tom?
+
+**Feasible**
+* The project is perfectly feasible. We only need financing.
+
+**Viable**
+* We do agree that it is viable. Now, is it possible with only three men?
+
+**Doable**
+* The plan is doable. Ask Mr Danton, who has all the figures.
+
+# 66. EXPRESS SOMETHING IMPROBABLE
+**Improbable**
+* It is improbable that she will finish before the deadline.
+
+**Doubtful**
+* Success seems doubtful. Who would back this adventure anyway?
+
+**Unlikely**
+* A deal looks unlikely.
+
+**I have my doubts**
+* I have my doubts about this business ever happening.
+
+**I’m unsure**
+* I’m unsure. There are less than thirty percent chances of winning.
+
+# 67. EXPRESS SOMETHING IMPOSSIBLE
+**Impossible**
+* It’s impossible for Greg to arrive on time. His plane is delayed in Paris.
+
+**Undoable**
+* This project is just undoable. Who drew the plans?
+
+**Out of the question**
+* Buying a new car is out of the question. Why don’t we lease one?
+
+**Unreachable**
+* The goals Rachel set are unreachable.
+
+**Unattainable**
+* Total quality will be unattainable without a well-trained workforce.
+
+# 68. ADD FURTHER INFORMATION
+**In addition**
+* In addition, I’d like to mention that Sara’s generally right.
+
+**We might also**
+* We might also deduce that bonuses will be affected too.
+
+**As well**
+* Corn, as well as wheat, is produced in Brazil.
+
+**Furthermore**
+* Furthermore, they insisted we should join them.
+
+**Moreover**
+* Moreover, the fine must be paid within seven days
+
+# 69. PROVIDE MORE DETAIL
+**To elaborate**
+* To elaborate on what Ms Finch exposed we will use a chart.
+
+**Here I have further information**
+* Here I have further information. As you see, the weather has changed.
+
+**Let me expand**
+* Let me expand on Robbie’s plan. It will entail a drastic change.
+
+**Let me tell you a little more**
+* Let me tell you a bit more about Dynacore. They’re not so reliable.
+
+**What's more**
+* What’s more, ClaraVision will also promote our merchandise.
+
+# 70. GENERALISE
+**On the whole**
+* On the whole, we can’t really say A is better than B.
+
+**In general**
+* In general people prefer longer, less expensive holidays.
+
+**By and large**
+* By and large, the process was successful.
+
+**All things considered**
+* All things considered, the match didn’t turn out so badly.
+
+**Broadly speaking**
+* Broadly speaking, women follow fashion more closely than men do.
 
