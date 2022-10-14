@@ -303,3 +303,21 @@ You could say that, but who buys ice cream in winter?
 **Certainly**
 * We will certainly increase our turnover within the next quarter.
 
+# 64. EXPRESS SOMETHING PROBABLE
+**Probably**
+* It will probably take place next summer.
+
+**Likely**
+* The festival is not likely to happen.
+
+**It seems**
+* It seems that you will be joining us after all.
+
+**Apparently**
+* Apparently the prototype will be ready by Monday.
+
+**On the face of it**
+* On the face of it, everything seems to be running smoothly.
+
+
+
