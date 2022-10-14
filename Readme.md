@@ -255,3 +255,35 @@ You could say that, but who buys ice cream in winter?
 **I am sorry to have to say**
 * I am sorry to have to say this but food today wasn't good at all.
 
+# 61. COMPLAIN LESS STRONGLY
+**I don't want to sound critical but**
+* I don't want to soung critical but your employees should be better trained.
+
+**I am sorry to bother you**
+* I am sorry to bother you but I must tell you something you won't like.
+
+**Excuse me if I seem out of line**
+* Excuse me if I seem out of line but I think you should change your attitude.
+
+**There  may be a misunderstanding**
+* There may be a misunderstanding. I said *ham*, not *jam*.
+
+**Don't get me wrong**
+* Don't get me wrong but I do believe you should improve the packaging.
+
+# 62. REPLY TO A COMPLAINT
+**We are sorry**
+* I'd like to say we are sorry for the inconveniences. Here's your refund.
+
+**I'd like to apologise**
+* I'd like to apologise for Jim's behaviour. We will take disciplinary action.
+
+**I regret**
+* I regret to inform you that we cannot return your money.
+
+**We'll do our best**
+* We'll do our best to settle the matter to your satisfaction, sir.
+
+**We'll solve this affair**
+* We'll solve this affair once and for all. Please come with me.
+
