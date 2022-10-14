@@ -287,3 +287,19 @@ You could say that, but who buys ice cream in winter?
 **We'll solve this affair**
 * We'll solve this affair once and for all. Please come with me.
 
+# 63. EXPRESS SOMETHING SURE
+**Surely**
+* This will surely happen.
+
+**Definitely**
+* I will definitely be fired in the company next month
+
+**Withour any question**
+* There is no question that he will be taken over.
+
+**Doubtlessly**
+* The building will doubtlessly be finished this November.
+
+**Certainly**
+* We will certainly increase our turnover within the next quarter.
+
