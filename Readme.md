@@ -415,3 +415,320 @@ You could say that, but who buys ice cream in winter?
 **Broadly speaking**
 * Broadly speaking, women follow fashion more closely than men do.
 
+# 71. Describe current project
+**We are working on**
+* We are now working on the BlockX cosmos blockchain.
+
+**We have started the process of**
+* We have started the process of researching the jailed condition.
+
+**The projects under development**
+* The projects under development are bridge, cosmos explorer and governance dashboard.
+
+**We are involved in**
+* We are alreay fully involved in mainnet launch step.
+
+**We remain occupied with**
+* We remain occupied with the development of new consensus algorithm.
+
+# 72. Discribe Fluctuation
+**Fluctuate**
+* After mainnet token listing, the price will fluctuate.
+
+**Unstable**
+* Our chain node was unstable on the first and second server.
+
+**Irregular**
+* Sometimes our blockxd daemon is irregular and is terminated.
+
+**Erratic**
+* His behavior is erratic.
+
+**Vary**
+* Figures vary all the time. It's impossible to draw correct model.
+
+# 73. Describe Stability
+**Stable**
+* After token price is decreased dramatically, it will be stable.
+
+**Remain unchanged**
+* Although we updated validators limit, the behavior of validator remains unchanged.
+
+**Steadily**
+* If we are lucky, sales will move steadily for the next couple of months.
+
+**Constant**
+* Our chain's native currency has not constant total supply.
+
+**The same**
+* Total supply in mainnet is same as in bsc network.
+
+# 74. Describe increase
+**Increase**
+* Salaries should increase according to the price of bcx token.
+
+**Improve**
+* We have to improve marketting strategy.
+
+**Raise**
+* I am not sure how much they raised from presale.
+
+**Rise**
+* Everyone don't think that token price would rise.
+
+**Go up**
+* Token price will never go up until they add big liquidity with high price.
+
+# 75. Describe gradual increase
+**Accumulate**
+* We have accumulated around ten percent.
+
+**Escalate**
+* Costs have escalated by a very small factor.
+
+**Accrue**
+* Interest has accrued in my savings account.
+
+**Grow**
+* The economy will grow this year.
+
+**Develop**
+* Sales seem not to have developed than they expected.
+
+# 76. Describe sudden increase
+**Boost**
+* The advertising campaign boosted donations by twenty percent.
+
+**Shoot up**
+* The cost of raw materials has shot up because of the increased demand.
+
+**Spring up**
+* Absenteeism always spring up when there's an epidemic of flu.
+
+**Surge**
+* Interest rates surged to 20 percent.
+
+**Multiply**
+* We need to multiply output by two within the next week.
+
+# 77. Talk about causes
+**Caused by**
+* The decrease in price was caused by lack of innovation.
+
+**Result from**
+* The fall in passengers resulted from a misguided marketing policy.
+
+**Due to**
+* Our failure was due to disorganization.
+
+**Conclusion**
+* Her success was the logical conclusion of hard work.
+
+**Bring about**
+* The change was brought about by our mistakes last year.
+
+# 78. Talk about consequences
+**Lead to**
+* The rise in sales led to more R&D.
+
+**Result in**
+* Our poor marketing resulted in the decrease of token price.
+
+**Mean that**
+* Rechael's decision to fire David means that I have to work harder.
+
+**Imply that**
+* If she arrives every day it implies that she's not happy with her job.
+
+**Entail that**
+* Lengthening the lunch hour will entail the loose of confidence from investors.
+
+# 79. Warn about consequences
+**Unless we**
+* Unless we finish all development till 31th Oct, it is diaster.
+
+**If we don't**
+* If we don't audit our smart contract properly, users will never believe our platform.
+
+**Only if**
+* We can make node get unjailed only if it catch up the latest block height.
+
+**Watch**
+* We will keep to watch the status of node. 
+
+**Otherwise**
+* The company needs to promise that salary of developers will not decrease. Otherwise no one will work in the company and the company will be ruined soon.
+
+# 80. Convince
+**I'm convinced**
+* I'm convinced this company will never go to moon.
+
+**I assure you**
+* I assure you our machine will work in every type of weather.
+
+**There is no doubt**
+* There are no doubts she is the best candidate.
+
+**You have my personal guarantee**
+* You have my personal guarantee this will not happen.
+
+**I'd like to reassure you**
+* I'd like to reassure you. Every aspect of the operation has been revised.
+
+# 81. Describe advantages
+**I will help you**
+* This programme will help you make extra money.
+
+**It will improve**
+* Working in the company will improve my skills.
+
+**It will allow you**
+* Our cleaning service will allow you to have every morning to yourself.
+
+**It stands out**
+* Our products will stands out among the toppest layer 1 blockchains because it has high tx speed.
+
+**The benefits are**
+* If you create your own validator in our chain, the benefits are the inflation token as block provision and gas fees gathered from transactions.
+
+# 82. Get People to act
+**Now's the time to apply**
+* Now's the time to apply to go away.
+
+**We's better move before**
+* We'd better move before the competition does.
+
+**Let's get going**
+* Let's get going. Time is golden.
+
+**We must act now**
+* We must act now in order to make our chain better.
+
+**Tomorrow will be too late**
+* Tomorrow will be too late. Today is the beginning of a new life.
+
+# 83. Propose solutions
+**Maybe we should**
+* Maybe we should call James.
+
+**How about**
+* How about setting up mainnet repo for our chain now?
+
+**Why don't you**
+* Why don't we make our repository as public?
+
+**The best way is to**
+* I think the best way is to make public github repository and announce that to users.
+
+**I would**
+* I would change total supply of our chain.
+
+# 84. Explore options
+**Let's look at**
+* Let's look at the option A.
+
+**Why don't we consider**
+* Why don't we consider that we can announce validator's profit amount.
+
+**How about**
+* How about to use bridge to exchange our token from BSC to mainnet?
+
+**We have several choices**
+* We have several choices.
+
+**We could either**
+* We could either be validator or delegator.
+
+# 85. Propose what is needed
+**You might need**
+* You might need an source code as deliverable.
+
+**It would be a good idea**
+* It would be a good idea to take a couple of spare ropes.
+
+**It might be better**
+* It might be better to include a colour photograph along with the letter.
+
+**You would better add**
+* You'd better add another person to the team.
+
+**You shouldn't forget**
+* You shouldn't forget to carry out forking project.
+
+# 86. Request what is needed.
+**We need**
+* I need at least $10000 to go forward next development in the company.
+
+**We can't do without**
+* We can't do without getting stable salary.
+
+**It is essential**
+* Working all night is essential.
+
+**It is compulsory**
+* Wearing a tie is compulsory at this office.
+
+**We require**
+* We require a deposit of at least 100K tokens to be a validator.
+
+# Recommend a person or firm
+**Recommend**
+* I can surely recommmend ClaraVision. They're a reliable agency.
+
+**put in a good word**
+* Of course I can put in a good word for Kate.
+
+**Say good things**
+* I can only say good things about DY.
+
+**Vouch for**
+* Yes, I will vouch for Jacqueline. Why do you want to know about her?
+
+# 88. Recommmend an action.
+**We urge you to**
+* We urge you to continue the bridge project.
+
+**We recommend you**
+* We recommend you prepare your managers for a shakeout.
+
+**We think you should**
+* We think you should confront gossip with facts.
+
+**You ought to**
+* You ought to conduct quality audits every year.
+
+**If I were you**
+* If I were you I'd keep my mouth shut.
+
+# 89. Describe a product.
+**Let me describe**
+* Let me describe our latest engine.
+
+**Can I tell you?**
+* Can I tell you about our school's services? We teach English.
+
+**Here you can see**
+* Here you can see why we call the TXR our star drier.
+
+**This model**
+* This particular model was designed by our people in Geneva.
+
+**It is priced**
+* It is priced at $3,499 and we pay for shipping!
+
+# 90. Describe features of a product.
+**It is made of**
+* It is made of wood and aluminium.
+
+**It features**
+* The team features two Nobel Prize winners.
+
+**It comes with**
+* It comes with a calculator and a pocket translator.
+
+**It measures**
+* It measures ten feet in width, two in height and one in depth.
+
+**It weighs**
+* It weighs close to a ton.
+
